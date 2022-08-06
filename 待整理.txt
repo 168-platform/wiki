@@ -3,3 +3,6 @@ https://qiita.com/k7a/items/b4fd298bcb64dc968ad1
 
 Unity Addressables之Build资源、热更、加载
 https://blog.csdn.net/lbxnba/article/details/125524885
+
+资源管理、Addressable与代码热更
+https://www.bilibili.com/video/BV1dp4y1Q7os
