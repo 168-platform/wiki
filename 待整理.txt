@@ -6,3 +6,6 @@ https://blog.csdn.net/lbxnba/article/details/125524885
 
 资源管理、Addressable与代码热更
 https://www.bilibili.com/video/BV1dp4y1Q7os
+
+达哥直播：Addressable Asset System全新资源管理流程
+https://www.youtube.com/watch?v=0tFnqBdO7NY
