@@ -9,3 +9,6 @@ https://www.bilibili.com/video/BV1dp4y1Q7os
 
 达哥直播：Addressable Asset System全新资源管理流程
 https://www.youtube.com/watch?v=0tFnqBdO7NY
+
+go test命令（Go语言测试命令）完全攻略
+http://c.biancheng.net/view/124.html
