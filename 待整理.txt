@@ -21,3 +21,9 @@ https://www.jibing57.com/2018/04/21/aws-s3-master-permission/
 
 Cognito, OIDC 实现 S3 精细化权限控制
 https://www.infoq.cn/article/pclgewvxns0p7gcw6okz
+
+[Android] Google Play Console の「難読化解除ファイル」と「デバッグ シンボル」の警告を消す方法
+https://qiita.com/koichi-ozaki/items/a6aa00a79aaa0a78f623
+
+The SafetyNet Attestation API is being discontinued and replaced by the new Play Integrity API. Begin migration as soon as possible to avoid user disruption. The Play Integrity API includes all the integrity signals that SafetyNet Attestation offers and more, like Google Play licensing and better error messaging. Learn more and start migrating at https://developer.android.com/training/safetynet/deprecation-timeline
+https://stackoverflow.com/questions/72904471/reported-critical-issues-with-version-17-0-0-google-play-warning
