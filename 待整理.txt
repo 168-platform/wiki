@@ -27,3 +27,6 @@ https://qiita.com/koichi-ozaki/items/a6aa00a79aaa0a78f623
 
 The SafetyNet Attestation API is being discontinued and replaced by the new Play Integrity API. Begin migration as soon as possible to avoid user disruption. The Play Integrity API includes all the integrity signals that SafetyNet Attestation offers and more, like Google Play licensing and better error messaging. Learn more and start migrating at https://developer.android.com/training/safetynet/deprecation-timeline
 https://stackoverflow.com/questions/72904471/reported-critical-issues-with-version-17-0-0-google-play-warning
+
+【Android Studio】mapping.txt の作成方法
+https://codeforfun.jp/android-studio-how-to-create-mapping-txt/
