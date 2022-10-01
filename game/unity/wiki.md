@@ -12,6 +12,8 @@ https://cloud.tencent.com/developer/article/1033592
 #### addressable
 * [Unity Addressables之Build资源、热更、加载](https://blog.csdn.net/lbxnba/article/details/125524885)
 * [UNITY ADDRESSABLES 深入浅出(二)](https://www.freesion.com/article/77011295245/)
+* [资源管理、Addressable与代码热更](https://www.bilibili.com/video/BV1dp4y1Q7os)
+* [达哥直播：Addressable Asset System全新资源管理流程](https://www.youtube.com/watch?v=0tFnqBdO7NY)
 
 ### 2048
 
