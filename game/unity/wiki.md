@@ -19,3 +19,7 @@ https://cloud.tencent.com/developer/article/1033592
 
 * [DOTween (HOTween v2)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) - 游戏2048中所使用的动画资源库
 * [Video（上）](https://www.youtube.com/watch?v=TeurfjuEIgA) - 制作2048时所参考的视频 [下](https://www.youtube.com/watch?v=T4eOYfb1RB8)
+
+### GO语言
+
+* [go test命令（Go语言测试命令）完全攻略](http://c.biancheng.net/view/124.html)
