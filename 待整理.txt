@@ -30,3 +30,6 @@ https://stackoverflow.com/questions/72904471/reported-critical-issues-with-versi
 
 【Android Studio】mapping.txt の作成方法
 https://codeforfun.jp/android-studio-how-to-create-mapping-txt/
+
+在线解析jwt工具
+http://jwt.calebb.net/
