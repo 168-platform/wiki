@@ -1,19 +1,4 @@
 
-Unity Addressables之Build资源、热更、加载
-https://blog.csdn.net/lbxnba/article/details/125524885
-
-资源管理、Addressable与代码热更
-https://www.bilibili.com/video/BV1dp4y1Q7os
-
-达哥直播：Addressable Asset System全新资源管理流程
-https://www.youtube.com/watch?v=0tFnqBdO7NY
-
-go test命令（Go语言测试命令）完全攻略
-http://c.biancheng.net/view/124.html
-
-Goのテストに入門してみよう！ 
-https://future-architect.github.io/articles/20200601/
-
 S3进阶系列(二) ——权限管理
 https://www.jibing57.com/2018/04/21/aws-s3-master-permission/
 
@@ -28,6 +13,3 @@ https://stackoverflow.com/questions/72904471/reported-critical-issues-with-versi
 
 【Android Studio】mapping.txt の作成方法
 https://codeforfun.jp/android-studio-how-to-create-mapping-txt/
-
-在线解析jwt工具
-http://jwt.calebb.net/
