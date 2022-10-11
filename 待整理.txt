@@ -1,1 +1,3 @@
 
+gorm のコネクションプールを検証してみた
+https://qiita.com/smith-30/items/83ad73f1b746d6a12a47
