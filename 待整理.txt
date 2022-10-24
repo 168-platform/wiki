@@ -4,3 +4,6 @@ https://qiita.com/smith-30/items/83ad73f1b746d6a12a47
 
 Go の sql.DB がコネクションプールを管理する仕組み
 https://please-sleep.cou929.nu/go-sql-db-connection-pool.html
+
+使用 Unity 构建适用于 Android 12 的应用
+https://developers.google.com/ar/develop/unity-arf/android-12-build
