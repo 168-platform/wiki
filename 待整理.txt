@@ -7,3 +7,6 @@ https://please-sleep.cou929.nu/go-sql-db-connection-pool.html
 
 使用 Unity 构建适用于 Android 12 的应用
 https://developers.google.com/ar/develop/unity-arf/android-12-build
+
+Amazon CognitoユーザープールでGoogle認証を連携する
+https://dev.classmethod.jp/articles/amazon-cognito-google-social-signin/
