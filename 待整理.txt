@@ -10,3 +10,6 @@ https://developers.google.com/ar/develop/unity-arf/android-12-build
 
 Amazon CognitoユーザープールでGoogle認証を連携する
 https://dev.classmethod.jp/articles/amazon-cognito-google-social-signin/
+
+Propagating Trace Headers with Istio + gRPC + HTTP 1.1 + Go
+https://medium.com/@the.real.yushuf/propagate-trace-headers-with-istio-grpc-http-1-1-go-73e7f5382643
